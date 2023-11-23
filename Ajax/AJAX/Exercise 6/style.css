@@ -1,0 +1,11 @@
+body{
+    font-family: monospace;
+    font-size: x-large;
+}
+
+table, th, td{
+    margin: auto;
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+}
